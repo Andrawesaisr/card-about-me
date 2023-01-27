@@ -1,0 +1,120 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body{
+   
+    background-color: rgb(24, 27, 32);
+}
+.body{
+    width:286px;
+    height: 842px;
+    background-color:rgb(11, 12, 14);
+    margin-left:auto;
+    margin-right:auto;
+    border:none;
+    border-radius:10px;
+}
+.info{
+    color:white;
+}
+.about{
+    color:white;
+}
+.interest{
+    color:white;
+}
+.pho{
+    width:285px;
+    border:none;
+    border-radius:10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.info{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name{
+    overflow: hidden;
+    font-weight:bold;
+    font-size:20px;
+    font-family:sans-serif;
+    margin:0;
+    margin-top:10px;
+    margin-bottom:2px;
+}
+.title{    
+    margin:0;
+    overflow: hidden;
+    font-weight:bold;
+    font-size:18px;
+    font-family: 'Times New Roman', serif;
+    color: rgb(165, 130, 66);
+    margin-bottom:20px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.ins{
+    width:30px;
+margin:0;
+margin-left:40px;
+}
+.tw{
+    width:30px;
+    border:none;
+    border-radius:13px;
+    margin-right:40px;
+} 
+
+h4{
+    font-size:17px;
+    margin:0;
+    margin-top:20px;
+    margin-bottom:3px;
+}
+
+
+.email{
+font-size:17px;
+margin-right:20px;
+color:black;
+background-color: white;
+border:none;
+border-radius:3px;
+width:90px;
+padding-top:4px;
+padding-bottom:4px;
+}
+.email:hover{
+    cursor: pointer;
+}
+.linkedin{
+margin-left:20px;
+font-size:17px;
+color:white;
+background-color: rgb(75, 75, 226);
+padding-top:5px;
+padding-bottom:5px;
+border:none;
+border-radius:4px;
+width:100px;
+}
+.linkedin:hover{
+    cursor: pointer;
+}
+i{
+    margin-right:4px;
+}
+li{
+    font-size:15px;
+}
+ol{
+    margin:0;
+    margin-top:4px;
+}
